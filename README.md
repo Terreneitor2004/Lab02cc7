@@ -35,3 +35,4 @@ Esta carpeta implementa la calculadora. Solo utiliza las funciones print y read 
 Este es el punto de inicio del programa podemos ver que muestra mensajes al usuario usando print. Solicita valores numéricos usando read pueden ser enteros o flotantes
 
 
+<img width="1716" height="911" alt="image" src="https://github.com/user-attachments/assets/9eb2d648-ddce-434b-a964-e5910f93201a" />
